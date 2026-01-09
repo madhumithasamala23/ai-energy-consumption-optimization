@@ -131,7 +131,6 @@ Smart alerts and recommendations
 👩‍💻 Author
 
 Madhumitha Samala
-B.Tech – Computer Science and Engineering
 
 📜 License
 
