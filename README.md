@@ -81,56 +81,19 @@ The dataset represents realistic energy usage scenarios in buildings.
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
-2️⃣ Train the AI Model
+```
+
+### 2️⃣ Train the AI Model
+```bash
 python train_model.py
+```
 
-3️⃣ Run the Streamlit Application
+### 3️⃣ Run the Streamlit Application
+```bash
 streamlit run app.py
+```
 
-
-Open the application in your browser:
-
+Open the application in your browser at:
+```
 http://localhost:8501
-
-📈 Features
-
-AI-based energy consumption prediction
-
-Interactive Streamlit web interface
-
-Dynamic trend analysis and visualizations
-
-Electricity cost estimation
-
-Sustainability and energy-saving recommendations
-
-🛡️ Responsible AI Considerations
-
-No personal or sensitive data is used
-
-Transparent and explainable AI predictions
-
-Ethical and responsible use of AI
-
-Focus on sustainability and awareness
-
-🚀 Future Enhancements
-
-Integration with real-time IoT energy meters
-
-Carbon footprint estimation
-
-Cloud deployment
-
-Mobile application support
-
-Smart alerts and notifications
-
-👩‍💻 Author
-
-Madhumitha Samala
-
-📜 License
-
-This project is developed for educational purposes as part of the
-AI for Sustainability Virtual Internship (1M1B – IBM SkillsBuild).
+```
