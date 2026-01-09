@@ -97,3 +97,37 @@ Open the application in your browser at:
 ```
 http://localhost:8501
 ```
+
+---
+
+
+## 📈 Features
+- AI-based energy consumption prediction
+- Interactive Streamlit web interface
+- Dynamic trend analysis and visualizations
+- Electricity cost estimation
+- Sustainability and energy-saving recommendations
+
+---
+
+## 🛡️ Responsible AI Considerations
+- No personal or sensitive data is used
+- Transparent and explainable AI predictions
+- Ethical and responsible use of AI
+- Focus on sustainability and awareness
+
+---
+
+## 🚀 Future Enhancements
+- Integration with real-time IoT energy meters
+- Carbon footprint estimation
+- Cloud deployment
+- Mobile application support
+- Smart alerts and notifications
+
+---
+
+## 📜 License
+This project is developed for educational purposes as part of the  
+**AI for Sustainability Virtual Internship (1M1B – IBM SkillsBuild)**.
+
