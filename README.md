@@ -100,6 +100,8 @@ http://localhost:8501
 
 ---
 
+DEMO: [click here](https://drive.google.com/file/d/1I_0oh3ujxW2k-hS8ZoYFjM9PzyFApDH0/view?usp=sharing)
+
 
 ## 📈 Features
 - AI-based energy consumption prediction
